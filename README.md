@@ -1,6 +1,20 @@
 # SAR & Optical Remote Sensing for Agriculture
 
-Trans-Atlantic Training 2022 (TAT-9): A Changing Eastern Europe: New Challenges for Science and Capacity Building in Land Remote Sensing
+Materials for the *Trans-Atlantic Training 2022 (TAT-9): A Changing Eastern Europe: New Challenges for Science and Capacity Building in Land Remote Sensing*.
 
+Prepared by:  
 Krištof Oštir  
-Matej Račič  
+Matej Račič 
+## Installation instructions
+
+## Theory
+
+## Practicals
+
+## Acknowledgment
+Development of RVT Python scripts was part financed by the Slovenian Research Agency core funding No. P2-0406.
+
+## License
+This project is licensed under the terms of the [Apache License](LICENSE).
+
+© Copyright 2022 University of Ljubljana, Faculty of Civil and Geodetic Engineering
