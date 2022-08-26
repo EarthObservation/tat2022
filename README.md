@@ -5,13 +5,17 @@ Materials for the *Trans-Atlantic Training 2022 (TAT-9): A Changing Eastern Euro
 Prepared by:  
 Krištof Oštir  
 Matej Račič 
+
 ## Installation instructions
 
 ## Theory
 
 ## Practicals
 
+## Sample data
+
 ## Acknowledgment
+
 Development of RVT Python scripts was part financed by the Slovenian Research Agency core funding No. P2-0406.
 
 ## License
