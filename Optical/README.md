@@ -16,7 +16,7 @@ Matej Račič
 
 ## Acknowledgment
 
-Development of RVT Python scripts was part financed by the Slovenian Research Agency core funding No. P2-0406.
+Preparation of the materials was part financed by the Slovenian Research Agency core funding No. P2-0406.
 
 ## License
 This project is licensed under the terms of the [Apache License](LICENSE).
