@@ -7,13 +7,19 @@ Krištof Oštir
 Matej Račič 
 
 ## Installation instructions
+We will be using [Anaconda](https://www.anaconda.com/), which can be installed from the [website](https://www.anaconda.com/products/distribution#Downloads). Create a new environment for this tutorial using the provided environment.yml file:
 
-## Practicals
+```
+conda env create --name eo-learn-workshop --file environment.yml
+conda activate eo-learn-workshop
+```
+
+Alternatively you can use pip to install the libraries using 'pip' and follow the tutorial.
 
 ## Sample data
 
-## Additional reasources
-This tutorial is based on the [materials](https://github.com/sentinel-hub/eo-learn-workshop/) provided by Sinergise. Where you can find even more examples and reasources for the [eo-learn](https://github.com/sentinel-hub/eo-learn) library.
+## Additional resources
+This tutorial is based on the [materials](https://github.com/sentinel-hub/eo-learn-workshop/) provided by Sinergise. Where you can find even more examples and resources for the [eo-learn](https://github.com/sentinel-hub/eo-learn) library.
 
 ## Acknowledgment
 
