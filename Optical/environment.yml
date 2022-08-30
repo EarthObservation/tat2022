@@ -1,0 +1,15 @@
+name: eo-learn-workshop-environment
+channels:
+  - conda-forge
+dependencies:
+- numpy
+- rasterio
+- shapely
+- pillow
+- geopandas
+- scikit-learn
+- lightgbm
+- jupyterlab
+- pip:
+  - eo-learn
+  - overpass
