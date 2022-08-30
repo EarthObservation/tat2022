@@ -14,6 +14,10 @@ Software used for the exercise is provided by [STEP](https://step.esa.int/main/)
 
 ## Sample data
 
+## Additional reasources
+This tutorial is based on the [materials](http://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf) provided by ESA. Where you can find additional information and a classification example for SAR imagery.
+[SAR Time Series](http://step.esa.int/docs/tutorials/S1TBX%20Time-series%20analysis%20with%20Sentinel-1.pdf)
+
 ## Acknowledgment
 
 Development of RVT Python scripts was part financed by the Slovenian Research Agency core funding No. P2-0406.

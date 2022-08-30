@@ -8,11 +8,12 @@ Matej Račič
 
 ## Installation instructions
 
-## Theory
-
 ## Practicals
 
 ## Sample data
+
+## Additional reasources
+This tutorial is based on the [materials](https://github.com/sentinel-hub/eo-learn-workshop/) provided by Sinergise. Where you can find even more examples and reasources for the [eo-learn](https://github.com/sentinel-hub/eo-learn) library.
 
 ## Acknowledgment
 
