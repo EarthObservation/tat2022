@@ -10,8 +10,8 @@ Matej Račič
 We will be using [Anaconda](https://www.anaconda.com/), which can be installed from the [website](https://www.anaconda.com/products/distribution#Downloads). Create a new environment for this tutorial using the provided environment.yml file:
 
 ```
-conda env create --name eo-learn-workshop --file environment.yml
-conda activate eo-learn-workshop
+conda env create --name optical-workshop --file environment.yml
+conda activate optical-workshop
 ```
 
 Alternatively, you can use pip to install the libraries using 'pip' and follow the tutorial.

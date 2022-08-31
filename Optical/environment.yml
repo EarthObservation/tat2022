@@ -1,4 +1,4 @@
-name: eo-learn-workshop-environment
+name: optical-workshop
 channels:
   - conda-forge
 dependencies:
@@ -8,8 +8,6 @@ dependencies:
 - pillow
 - geopandas
 - scikit-learn
-- lightgbm
 - jupyterlab
 - pip:
   - eo-learn
-  - overpass
