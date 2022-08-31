@@ -1,6 +1,6 @@
 # SAR & Optical Remote Sensing for Agriculture
 
-Materials for the *Trans-Atlantic Training 2022 (TAT-9): A Changing Eastern Europe: New Challenges for Science and Capacity Building in Land Remote Sensing*.
+Materials for the [*Trans-Atlantic Training 2022 (TAT-9): A Changing Eastern Europe: New Challenges for Science and Capacity Building in Land Remote Sensing*](https://web.natur.cuni.cz/gis/tat/).
 
 Prepared by:  
 Krištof Oštir, University of Ljubljana  
