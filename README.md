@@ -3,10 +3,18 @@
 Materials for the *Trans-Atlantic Training 2022 (TAT-9): A Changing Eastern Europe: New Challenges for Science and Capacity Building in Land Remote Sensing*.
 
 Prepared by:  
-Krištof Oštir  
-Matej Račič 
+Krištof Oštir, University of Ljubljana  
+Matej Račič, University of Ljubljana   
+Matej Batič, Sinergise
+
 ## Preparation
-The repository consists of two directories with the materials, installation instructions, theory and practical information. The repository can be synchronized using 'git pull' or downloaded as a zip file. The data used for the practical exercise can be downloaded from [Copernicus.eu](https://scihub.copernicus.eu/dhus) or using the following [link](https://unilj-my.sharepoint.com/:f:/g/personal/mracic_fgg_uni-lj_si/EozeUw9q_HxNlho66hXlpYkBh9T4z7FtVFoz0clv84EyGA?e=Zni0hz). 
+
+The repository consists of two directories with the materials, installation instructions, theory and practical information.
+
+* [Optical](Optical/README.md)
+* [SAR](SAR/README.md)
+
+The repository can be synchronized using `git pull` or downloaded as a zip file. The data used for the practical exercise can be downloaded from [Copernicus.eu](https://scihub.copernicus.eu/dhus) or using the following [link](https://unilj-my.sharepoint.com/:f:/g/personal/mracic_fgg_uni-lj_si/EozeUw9q_HxNlho66hXlpYkBh9T4z7FtVFoz0clv84EyGA?e=Zni0hz). 
 
 Each practical has corresponding install instructions which should be completed in advance.
 
