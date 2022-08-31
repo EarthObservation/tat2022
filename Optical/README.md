@@ -14,9 +14,10 @@ conda env create --name eo-learn-workshop --file environment.yml
 conda activate eo-learn-workshop
 ```
 
-Alternatively you can use pip to install the libraries using 'pip' and follow the tutorial.
+Alternatively, you can use pip to install the libraries using 'pip' and follow the tutorial.
 
-## Sample data
+## Practicals
+We will be using the data and the notebooks available in the corresponding folders.
 
 ## Additional resources
 This tutorial is based on the [materials](https://github.com/sentinel-hub/eo-learn-workshop/) provided by Sinergise. Where you can find even more examples and resources for the [eo-learn](https://github.com/sentinel-hub/eo-learn) library.

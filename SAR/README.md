@@ -11,10 +11,10 @@ Software used for the exercise is provided by [STEP](https://step.esa.int/main/)
 
 ## Sample data
 The Sentinel-1 data is available for download at [Copernicus.eu](https://scihub.copernicus.eu/dhus). For this example we will be using two images:
-'''
+```
 S1A_IW_GRDH_1SDV_20220729T165206_20220729T165231_044318_0549FD_B49C
 S1A_IW_GRDH_1SDV_20220729T165206_20220729T165231_044318_0549FD_B49C
-'''
+```
 Also available on the following [link](https://unilj-my.sharepoint.com/:f:/g/personal/mracic_fgg_uni-lj_si/EozeUw9q_HxNlho66hXlpYkBh9T4z7FtVFoz0clv84EyGA?e=Zni0hz). 
 
 ## Additional reasources
