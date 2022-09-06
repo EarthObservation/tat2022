@@ -7,6 +7,10 @@ Krištof Oštir, University of Ljubljana
 Matej Račič, University of Ljubljana   
 Matej Batič, Sinergise
 
+## Theory
+
+Slides for the theory part of the course are available here [SAR & Optical Remote Sensing for Agriculture](./Theory/TAT22_SAR_Optical_Agriculture.pdf).
+
 ## Preparation
 
 The repository consists of two directories with the materials, installation instructions, theory and practical information.
