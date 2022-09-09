@@ -9,5 +9,6 @@ dependencies:
 - geopandas
 - scikit-learn
 - jupyterlab
+- ipywidgets
 - pip:
   - eo-learn

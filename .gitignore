@@ -130,3 +130,6 @@ dmypy.json
 
 # Configuration
 *.id
+
+# Cache
+Optical/notebooks/cache/
