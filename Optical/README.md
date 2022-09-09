@@ -17,7 +17,8 @@ conda activate optical-workshop
 Alternatively, you can use pip to install the libraries using 'pip' and follow the tutorial.
 
 ## Practicals
-We will be using the data and the notebooks available in the corresponding folders.
+We will be using the notebooks available in the corresponding folders. To run the notebook after the practical you will need a [Sentinel Hub](https://www.sentinel-hub.com/develop/api/ogc/standard-parameters/) account.
+Free trial is also available. Once registered you can follow the [instructions](https://sentinelhub-py.readthedocs.io/en/latest/configure.html) to configure access to the services.
 
 ## Additional resources
 This tutorial is based on the [materials](https://github.com/sentinel-hub/eo-learn-workshop/) provided by Sinergise. Where you can find even more examples and resources for the [eo-learn](https://github.com/sentinel-hub/eo-learn) library.
